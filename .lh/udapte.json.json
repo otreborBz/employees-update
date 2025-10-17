@@ -1,0 +1,46 @@
+{
+    "sourceFile": "udapte.json",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 7,
+            "patches": [
+                {
+                    "date": 1760728452290,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1760728462117,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,5 +1,5 @@\n {\r\n-  \"latestVersion\": \"2.0.0\",\r\n-  \"updateMessage\": \"Nova versão disponível com melhorias de desempenho e correções de bugs.\",\r\n+  \"latestVersion\": \"2.0.1\",\r\n+  \"updateMessage\": \"Nova versão disponível com melhorias de desemp.\",\r\n   \"downloadUrl\": \"https://drive.google.com/uc?export=download&id=14x1_r1x4W7GAkYW5ZLr0MDPVO_M99B-K\"\r\n }\r\n"
+                },
+                {
+                    "date": 1760728473166,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,5 @@\n+{\r\n+  \"latestVersion\": \"2.0.1\",\r\n+  \"updateMessage\": \"Nova versão disponível com melhorias e desem.\",\r\n+  \"downloadUrl\": \"https://drive.google.com/uc?export=download&id=14x1_r1x4W7GAkYW5ZLr0MDPVO_M99B-K\"\r\n+}\r\n"
+                },
+                {
+                    "date": 1760728478387,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,5 @@\n+{\r\n+  \"latestVersion\": \"2.0.1\",\r\n+  \"updateMessage\": \"Nova versão disponível com melhorias e desempenhos .\",\r\n+  \"downloadUrl\": \"https://drive.google.com/uc?export=download&id=14x1_r1x4W7GAkYW5ZLr0MDPVO_M99B-K\"\r\n+}\r\n"
+                },
+                {
+                    "date": 1760728483947,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,5 @@\n+{\r\n+  \"latestVersion\": \"2.0.1\",\r\n+  \"updateMessage\": \"Nova versão disponível com melhorias e desempenhos.\",\r\n+  \"downloadUrl\": \"https://drive.google.com/uc?export=download&id=14x1_r1x4W7GAkYW5ZLr0MDPVO_M99B-K\"\r\n+}\r\n"
+                },
+                {
+                    "date": 1760728514889,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,20 +1,5 @@\n {\r\n   \"latestVersion\": \"2.0.1\",\r\n   \"updateMessage\": \"Nova versão disponível com melhorias e desempenhos.\",\r\n-  \"downloadUrl\": \"https://drive.google.com/uc?export=download&id=14x1_r1x4W7GAkYW5ZLr0MDPVO_M99B-K\"\r\n+  \"downloadUrl\": \"https://drive.google.com/file/d/1sxY9pHTxCYbuOtwiW5MrTGidnV6dEZEs/view?usp=sharing\"\r\n }\r\n-{\r\n-  \"latestVersion\": \"2.0.1\",\r\n-  \"updateMessage\": \"Nova versão disponível com melhorias e desempenhos .\",\r\n-  \"downloadUrl\": \"https://drive.google.com/uc?export=download&id=14x1_r1x4W7GAkYW5ZLr0MDPVO_M99B-K\"\r\n-}\r\n-{\r\n-  \"latestVersion\": \"2.0.1\",\r\n-  \"updateMessage\": \"Nova versão disponível com melhorias e desem.\",\r\n-  \"downloadUrl\": \"https://drive.google.com/uc?export=download&id=14x1_r1x4W7GAkYW5ZLr0MDPVO_M99B-K\"\r\n-}\r\n-{\r\n-  \"latestVersion\": \"2.0.1\",\r\n-  \"updateMessage\": \"Nova versão disponível com melhorias de desemp.\",\r\n-  \"downloadUrl\": \"https://drive.google.com/uc?export=download&id=14x1_r1x4W7GAkYW5ZLr0MDPVO_M99B-K\"\r\n-}\r\n"
+                },
+                {
+                    "date": 1760728586892,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,5 +1,6 @@\n {\r\n   \"latestVersion\": \"2.0.1\",\r\n   \"updateMessage\": \"Nova versão disponível com melhorias e desempenhos.\",\r\n-  \"downloadUrl\": \"https://drive.google.com/file/d/1sxY9pHTxCYbuOtwiW5MrTGidnV6dEZEs/view?usp=sharing\"\r\n+  \"downloadUrl\": \"https://drive.google.com/uc?export=download&id=1sxY9pHTxCYbuOtwiW5MrTGidnV6dEZEs\r\n+\"\r\n }\r\n"
+                },
+                {
+                    "date": 1760728592719,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,6 @@\n+{\r\n+  \"latestVersion\": \"2.0.1\",\r\n+  \"updateMessage\": \"Nova versão disponível com melhorias e desempenhos.\",\r\n+  \"downloadUrl\": \"https://drive.google.com/uc?export=download&id=1sxY9pHTxCYbuOtwiW5MrTGidnV6dEZEs\"\r\n+\"\r\n+}\r\n"
+                }
+            ],
+            "date": 1760728452290,
+            "name": "Commit-0",
+            "content": "{\r\n  \"latestVersion\": \"2.0.0\",\r\n  \"updateMessage\": \"Nova versão disponível com melhorias de desempenho e correções de bugs.\",\r\n  \"downloadUrl\": \"https://drive.google.com/uc?export=download&id=14x1_r1x4W7GAkYW5ZLr0MDPVO_M99B-K\"\r\n}\r\n"
+        }
+    ]
+}
