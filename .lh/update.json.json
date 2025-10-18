@@ -1,0 +1,26 @@
+{
+    "sourceFile": "update.json",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 2,
+            "patches": [
+                {
+                    "date": 1760821044217,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1760821052557,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,5 +1,5 @@\n {\r\n-  \"latestVersion\": \"2.0.1\",\r\n+  \"latestVersion\": \"2.0.2\",\r\n   \"updateMessage\": \"Nova versão disponível para download.\",\r\n   \"downloadUrl\": \"https://drive.google.com/uc?export=download&id=1sxY9pHTxCYbuOtwiW5MrTGidnV6dEZEs\"\r\n }\r\n"
+                },
+                {
+                    "date": 1760821726179,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -0,0 +1,5 @@\n+{\r\n+  \"latestVersion\": \"2.0.2\",\r\n+  \"updateMessage\": \"Nova versão disponível para download.\",\r\n+  \"downloadUrl\": \"https://drive.google.com/uc?export=download&id=1hRu4F24ZvxXf52skK0joMEMYxIHd65Xq\"\r\n+}\r\n"
+                }
+            ],
+            "date": 1760821044217,
+            "name": "Commit-0",
+            "content": "{\r\n  \"latestVersion\": \"2.0.1\",\r\n  \"updateMessage\": \"Nova versão disponível .\",\r\n  \"downloadUrl\": \"https://drive.google.com/uc?export=download&id=1sxY9pHTxCYbuOtwiW5MrTGidnV6dEZEs\"\r\n}\r\n"
+        }
+    ]
+}
